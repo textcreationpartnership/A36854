@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the metropolitical Church of Canterbury, October 17, MDCLXXII, at the funeral of the Very Reverend Thomas Turner, D.D., dean of the same church by Peter du Moulin ...</title>
+            <author>Du Moulin, Peter, 1601-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36854</idno>
+            <idno type="STC">Wing D2567</idno>
+            <idno type="STC">ESTC R10909</idno>
+            <idno type="EEBO-CITATION">12277119</idno>
+            <idno type="OCLC">ocm 12277119</idno>
+            <idno type="VID">58486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58486)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 625:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the metropolitical Church of Canterbury, October 17, MDCLXXII, at the funeral of the Very Reverend Thomas Turner, D.D., dean of the same church by Peter du Moulin ...</title>
+                  <author>Du Moulin, Peter, 1601-1684.</author>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, Thomas, 1591-1672.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58486:1"/>
+            <pb facs="tcp:58486:1" rendition="simple:additions"/>
+            <p>A SERMON Preached in the Metropolitical Church OF CANTERBURY, <hi>October</hi> 17. MDCLXXII.</p>
+            <p>AT THE FUNERAL Of the very Reverend <hi>THOMAS TURNER,</hi> D.D. Dean of the ſame Church.</p>
+            <p>By <hi>Peter du Moulin,</hi> D.D. Canon there, and One of His Majeſties Chaplains.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Henry Brome,</hi> at the Gun in S. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Church-Yard near the Weſt End. 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:58486:2"/>
+            <pb n="1" facs="tcp:58486:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>PHIL. 1.21.</hi>
+               </bibl>
+               <q>For to me to live is Chriſt, and to die is gain.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Goſpel is the onely Doctrine of true Wiſdom, and therefore the onely direction to true Happineſs. Thereby the Chriſtian learneth to walk before his God unto all plea<g ref="char:EOLhyphen"/>ſing, and charitably and uprightly with his Neighbours; to inſtruct his ignorance, and correct his perverſneſs, to ſtand faſt erected and contented in the ſeveral turns of this World; to live well, and to die well, which is all.</p>
+            <p>That ſacred Doctrine is then moſt effectual to thoſe great ends when it comes ſeconded by ex<g ref="char:EOLhyphen"/>ample, and atteſted by experience. Give me leſſons like my text and the two before, where the Teacher teacheth himſelf, and ſets forth his doctrine by his practice. The good Apoſtle was in bonds, in imminent peril of death. And beſides the perſecu<g ref="char:EOLhyphen"/>tion from Pagans, he was maligned by falſe bre<g ref="char:EOLhyphen"/>thren,
+<pb n="2" facs="tcp:58486:3"/>who <hi>preached Chriſt out of contention, not ſincerely, ſuppoſing to adde affliction to his bonds.</hi>
+            </p>
+            <p>In that double trial, ſee how the holy champion puts on the breaſtplate of righteouſneſs and the helmet of ſalvation; and takes in one hand the ſword of the Spirit, in the other the buckler of faith.
+<note place="margin">Verſ. 19.</note> 
+               <hi>I know</hi> (ſaith he) <hi>that this ſhall turn to my ſalvation through your prayer, and the ſupply of the Spirit of Jeſus Chriſt: According to my earneſt ex<g ref="char:EOLhyphen"/>pectation, and my hope, that in nothing I ſhall be aſhamed; but that with all boldneſs, as alwayes, ſo now alſo, Chriſt ſhall be magnified in my body, whether it be by life or by death. For to me to live is Chriſt and to die is gain;</hi> or (to make it more Engliſh) Either way, or rather both the ways, <hi>Christ is a gain unto me both to live and to die.</hi> Yet he had de<g ref="char:EOLhyphen"/>clared before, and ſo he doth after, that he held it a far greater gain for him to die for Chriſt, and would rather glorify him by his death than life.</p>
+            <p>This was alſo the godly mind of our dear and highly honoured Dean, in his laſt ſickneſs eſpe<g ref="char:EOLhyphen"/>cially; So deep was the gaining of Chriſt in his pious ſoul, that he could be ſenſible of no comfort but through death, that he might gain Chriſt. The mention of recovery did afflict him, yea
+<pb n="3" facs="tcp:58486:3"/>offend him. <hi>I fear nothing ſo much</hi> (would he ſay) <hi>as to recover; I long to be diſſolved and to be with Chriſt.</hi> That ſentence was continually in his mouth, That reſolution was ſtedfaſtly fixt in his mind. Did any ſpeak to him of life and health, and the comfort of his wife and children, <hi>Away,</hi> would he anſwer, <hi>I have enjoyed all theſe long enough; Chriſt I would have. O when ſhall I be diſſolved and be with Chriſt!</hi> Much in the ſame ſtile as David, <hi>As the hart panteth after the water-brooks,</hi>
+               <note place="margin">Pſal. 42.1.</note> 
+               <hi>ſo panteth my ſoul after thee O God: My ſoul thirſteth for God, for the living God; When ſhall I come and appear be<g ref="char:EOLhyphen"/>fore God?</hi>
+            </p>
+            <p>One may tell me that I preſs the practice of my text before the doctrine. But I will ſay for my ſelf that in this text the practice is the leader of the doctrine. <hi>
+                  <g ref="char:V">Ʋ</g>nto me to live is Chriſt and to die is gain.</hi> And to ſhew how Chriſt was a gain unto St. <hi>Paul,</hi> and to thoſe that are his followers as he alſo was of Chriſt, it is the life of the text. Yet becauſe the doctrine is the pattern of the practice, this is the kernel of the doctrine of the text, and the order to be kept in the expoſition.</p>
+            <p>Chriſt being ſent unto men to be a <hi>gain</hi> unto them, it is preſuppoſed thereby that they are at a <hi>loſs</hi> without him. Mans natural loſſes are the
+<pb n="4" facs="tcp:58486:4"/>deprivation of Gods knowledge in his under<g ref="char:EOLhyphen"/>ſtanding, and of Gods righteouſneſs in his will; Whence follow heavy judgments upon him in his life, and eternal woe after his death.</p>
+            <p>To help him in this ſad condition, The Son of God hath brought from the boſom of his Father unto mankind that heavenly doctrine of glory to God on high, and on earth peace, good will towards men; Which being embraced with obe<g ref="char:EOLhyphen"/>dience of faith will prove ſuch a gain unto him, that thoſe ſpiritual loſſes ſhall be repaired, his temporal wants ſhall be ſupplied, his afflictions ſhall be removed, or ſo ſanctified that they will prove lucrative unto him. And Death, that proper and diſmal ſtipend of ſin, will prove unto him the greateſt gain of all; for inſtead of tumbling him down into hell, it will powre him into the boſom of his Father which is in heaven, that bottomleſs depth of goodneſs and glory. Of which goodneſs and glory the ſummary is to be fully conformed (in mans meaſure) unto Chriſt his ſoveraine good, and to be joined with him for ever.</p>
+            <p>To reſume theſe, conſider a little what a wretched thing a man is that hath not learned Chriſt. As for his underſtanding, he is plunged
+<pb n="5" facs="tcp:58486:4"/>in deep ignorance, knowing neither God nor him<g ref="char:EOLhyphen"/>ſelf, nor his danger nor his remedy. Much like one who being fallen from a high place is ſo ſtunned with the fall that he knoweth not that he is fallen. Carnal men are much like moles that dig under ground with great induſtry, but are blind in the ſunſhine: So naturally ignorant in the things of God, that the wiſeſt of this world, the Philoſo<g ref="char:EOLhyphen"/>phers, were divided into more then two hundred opinions about the ſoveraine good: And that the ingenious nations the <hi>Egyptians</hi> and <hi>Grecians</hi> were the moſt monſtrous of all in their religi<g ref="char:EOLhyphen"/>ons; The <hi>Egyptians</hi> worſhipping oxen and cro<g ref="char:EOLhyphen"/>codiles, onions and leeks; The <hi>Grecians</hi> ima<g ref="char:EOLhyphen"/>gining in heaven feaſts and combats and adulte<g ref="char:EOLhyphen"/>ries among their Gods. And even in our days, corrupt men have ſo intailed ignorance upon religion, that we are taught by Popery that faith conſiſteth in ignorance, which is a vertue eaſily attained.</p>
+            <p>Well, to heal mens minds of ignorance in the things of God, God hath ſent his Son into the world,
+<note place="margin">2 <hi>Tim.</hi> 1.</note> who hath brought life and immortality to light by the Goſpel. Here is a <hi>gain</hi> indeed.
+<note place="margin">Mat. 13.46.</note> Here is that pearl of great price which that a man may have he muſt ſell all that he hath
+<pb n="6" facs="tcp:58486:5"/>and buy it.
+<note place="margin">Prov. 3.</note> Here is that <hi>wiſedom the merchandiſe whereof is better than the merchandiſe of ſilver, and the gain thereof then fine gold. She is more pretious then rubies, and all the things thou canſt deſire are not to be compared unto her.</hi>
+            </p>
+            <p>The excellency of that gain is then made moſt manifeſt when from the illuminating of our un<g ref="char:EOLhyphen"/>derſtanding it paſſeth to the regulating of our affe<g ref="char:EOLhyphen"/>ctions and the ſanctifying of our hearts: Chriſt enabling our ſpirits freely to join with his Spirit to ſubdue all our inward rebellions, and bringing them captives under the throne of Chriſt, ſay unto him, Lord <hi>rule thou in the midſt of thine enemies.</hi> Is not liberty a great <hi>gain</hi> to a ſlave and a priſoner? To a man that ſerved his luſt, his belly, his money, his revengeful mind, and the Devil by them, what a gain is it by ſerving God to become Maſter at home; to feel in his breaſt, inſtead of a ſtorm of unruly paſſions, the peace of God which paſſeth all underſtanding; and to find to his great com<g ref="char:EOLhyphen"/>fort that <hi>where the Spirit of the Lord is there is li<g ref="char:EOLhyphen"/>berty?</hi>
+            </p>
+            <p>What a great <hi>gain</hi> is it to be made rich in good works, rich in God? What a great gain is it for us to give thoſe goods which we cannot keep, and thereby to purchaſe goods which we cannot looſe?
+<pb n="7" facs="tcp:58486:5"/>To ſow upon earth that which we ſhall be ſure to reap in heaven? To put out our money to Gods bank who will repay it an hundred fold?</p>
+            <p>And how great a gain is the practice of godli<g ref="char:EOLhyphen"/>neſs? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Godlineſs is a great gain,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>with ſufficiency.</hi> A great gain which brings along ſufficiency and contentment, for ſo the text muſt be underſtood.</p>
+            <p>Of that many a good ſoul could ſay much by feeling experience. For although the great gain of godlineſs be not for this world, (as the kingdom of Chriſt is not of it) Yet Chriſt who is the Sove<g ref="char:EOLhyphen"/>reign Lord of nature, as well as King of the Church, engageth his Royal word that all that ſerve him, and ſincerely ſeek his glory ſhall not need to ſay, What ſhall we eat, or what ſhall we drink, or wherewithal ſhall we be clothed? becauſe their heavenly Father knoweth that they have need of all theſe things.
+<note place="margin">Mat. 6.33.</note> 
+               <hi>But ſeek ye firſt the kingdom of God and his righteouſneſs, and all theſe things ſhall be added unto you.</hi> This is the Char<g ref="char:EOLhyphen"/>ter of Chriſts Diſciples, that they may con<g ref="char:EOLhyphen"/>fidently caſt their cares upon him for he careth for them, and ſo forſake all intereſſes to follow him.</p>
+            <p>But this is the leaſt gain that we get by Chriſt
+<pb n="8" facs="tcp:58486:6"/>in this life. The great gain is the beginning of eternal life. For the ſpiritual life in a godly mans breaſt is of one piece with life everlaſting after the temporal is ended. To have at hand the directions of his word, the counſels of his Spirit, the com<g ref="char:EOLhyphen"/>forts of his love, the joyes of his ſalvation; To have a free acceſs unto the throne of grace at all times; To make one already in the quire of Angels and Saints ſinging with them <hi>Holy Holy Holy Lord God of hoſts, heaven and earth is full of the Majeſty of his glory;</hi> To be joyful in hope, looking up unto Jeſus the Author and finiſher of our faith, who went up through the rough way of the Croſs to glory, to make us a plain way to the ſame: This is the gain that comes to us, even in this life, by having Chriſt.</p>
+            <p>Join to theſe the comforts that we reliſh in all conditions. Is it proſperity? the true Chriſtian takes it as an effect of Gods promiſe (which was made good to this reverend godly Divine) that <hi>by humility and the fear of the Lord are riches and honour and life,</hi>
+               <note place="margin">Pro. 22.4.</note> and that <hi>godlineſs is profitable for all things having the promiſes of this life and of that which is to come.</hi>
+               <note place="margin">1 Tim. 4.8.</note> In every morſel he will reliſh how the Lord is gracious; In his health, in his wealth, in his hopeful family, he will ever look more to
+<pb n="9" facs="tcp:58486:6"/>the giver than to the gift, and adore him in whom he liveth and moveth and hath his being and his well being.</p>
+            <p>Is he in adverſity? He will ſay, I know whom I have believed. God hath a hand in all this.
+<note place="margin">Pſal. 39.</note> I will be dumb and not open my mouth to mur<g ref="char:EOLhyphen"/>mur, for thou O Lord haſt done it. My croſs is my Saviours livery. My humble conformity to his ſufferings will end in a conformity to his glory, if I may <hi>have the ſame mind which was alſo in Chriſt Jeſus, who humbled himſelf and became obedient unto death, even the death of the Croſs. Wherefore God alſo hath highly exalted him, and given him a name which is above every name.</hi>
+            </p>
+            <p>Now that gain which we have by Chriſt in this life, is but a preparative to that grand and un<g ref="char:EOLhyphen"/>matchable gain in Chriſt which his true Diſciples attain unto by death.</p>
+            <p>Chriſt is a gain unto them to die, two ways, by avoyding the ſting and the terrours of death, and by a paſſage unto an eternal life of holineſs and glory.</p>
+            <p>The ſting and terrour of approaching death is moſt tormenting to thoſe that have taken no pains to make Chriſt the gain of their life. What a cutting of their heart is it when they have fixt it
+<pb n="10" facs="tcp:58486:7"/>upon the beloved world, and they muſt be vio<g ref="char:EOLhyphen"/>lently torn off from the world! <hi>Linquenda tellus &amp; domus &amp; placens uxor.</hi> And of all the wealth which they have heapt up with anxious care and wicked labour, they ſee they carry nothing away but a winding ſheet.</p>
+            <p>But the worſt ſting of death is that which they feel in their conſcience, when it ſets before them the years ſpent in deboiſh, the unrighteouſneſs of their purchaſes, their contempt of Gods word, their ſlighting of his ſervice, their blaſphemous and unclean converſation, and upon that pro<g ref="char:EOLhyphen"/>nounceth unto them (as Gods Officer) the doom of divine juſtice which muſt be ſhortly executed upon them.</p>
+            <p>It is true, many of thoſe ſinners in grain die ſenſeleſs; Yet before their death the ſting of eternal death meets with their conſciences, even in the midſt of their jollities. And many ſin<g ref="char:EOLhyphen"/>ners of a lower form feel it all their lives time.</p>
+            <p>To heal conſciences of that ſting was the great end of the Son of God's coming and dying in our fleſh; As you have it illuſtriouſly ſet forth <hi>Heb.</hi> 2.14. That <hi>Chriſt took part of fleſh and blood, that through death he might deſtroy him that had the power of death, that is the Devil; And deliver them
+<pb n="11" facs="tcp:58486:7"/>who through fear of death are all their lives time ſubject unto bondage.</hi>
+            </p>
+            <p>This is the great remedy againſt that mortal ſting of death ſent by the Father of mercies to poor ſinners: A never ſading remedy, when ſinners have the grace to receive it with a ſincere faith, effectual in an humble repentance, and a ſerious amendment. For then the ſoul reconciled with God looks upon death with quite another eye then before, and ſaith, <hi>O death where is thy ſting?</hi>
+               <note place="margin">Rom. 7.</note> 
+               <hi>O grave where is thy victory?</hi> Death do not look grim upon me, I know who hath overcome thee; Conſcience do not think to fright me, I know whom I have believed; I have committed my ſpirit aſſoiled with Chriſts blood into his victori<g ref="char:EOLhyphen"/>ous hands. And I know he is both willing and powerful to defend it againſt all the principalities and powers of hell that are roaring about me to devour me.</p>
+            <p>After that deliverance from the ſting and the terrour of death followeth the attainment of eternal life, and death it ſelf is the paſſage unto it. There is that difference between the death of the reconciled and that of the unreconciled ſinner as was between the Butler's and the Baker's of <hi>Pharaoh</hi> going out of the ſame priſon, the
+<pb n="12" facs="tcp:58486:8"/>one to the gallowes, the other to enter into the joy of his Maſter. Oh the bleſſed hope of a ſoul arrived even into the mouth of that haven of ſalvation,
+<note place="margin">Pſal. 118.</note> ſaying with a holy impatience, <hi>Open me the gates of righteouſneſs; I will go into them, and praiſe the Lord; This gate of the Lord into which the righteous ſhall enter.</hi> Lord Jeſu thou art gone in before unto thy Father and our Father, and to thy God and our God; Oh make good now thy promiſe, that thou wilt come to us and take us to thee,
+<note place="margin">Joh. 14.18.</note> that where thou art there we may be alſo. Let me have once, let me have now the final com<g ref="char:EOLhyphen"/>pleting of my Chriſtian happineſs,
+<note place="margin">17.24.</note> and of my gain in Chriſt.</p>
+            <p>It was a gracious ſpeech of St. <hi>Ambroſe</hi> on his death-bed to his friends weeping about him, <hi>Non ſic vixi ut pudeat me inter vos vivere: Sed nec timeo mori, quia bonum habemus Dominum.</hi> I did not ſo live as to be afraid to live among you: Neither do I fear to die, becauſe we have a good Lord. So did our Reverend dear Dean ſpeak af<g ref="char:EOLhyphen"/>ter him; but went beyond him in his alacrity, and being on the wing for heaven; knowing that <hi>when this earthly houſe of this tabernacle was diſſolved,</hi>
+               <note place="margin">2 Cor. 6.1.</note> 
+               <hi>he had a building of God, a houſe not made
+<pb n="13" facs="tcp:58486:8"/>with hands, eternal in the heavens.</hi> Therefore did he ſigh, and long, and pant for that eternal houſe, and in that houſe he now dwelleth, be<g ref="char:EOLhyphen"/>holding Gods face in righteouſneſs.</p>
+            <p>My brethren, I make no doubt but that every one that heareth me is deſirous that Chriſt may be to him a <hi>gain</hi> to die; ſo that when his ſoul departs out of his body it may be received by Chriſt, and brought into his eternal habitations. Who can blame you? But then I muſt beſeech you to take great heed of diſ-joyning the parts of my text. For be ye ſure that Chriſt ſhall not be a gain unto you in your death, if you neglect to make him a gain unto you in your life. <hi>Piety</hi> (ſaith St. <hi>Paul) is a great gain:</hi> Do you labour to make that great gain by Chriſt? Do you ſtudy to follow him who left us an example that we ſhould follow his ſteps? Do you learn of him that he is meek and humble of heart, that you may find reſt unto your ſouls? Do you learn of him not to ſeek your glory, but that of him that ſent him? Do you go about doing good as he did? Do you love your enemies? Do you pray for thoſe that perſecute you as he did for thoſe that crucified him? I tell you if you do not endeavour to be conformable unto him, and
+<pb n="14" facs="tcp:58486:9"/>to be guided by his doctrine and example in your life, you ſhall not find him a gain unto you in your death. The ſpiritual life of the Chriſtian in this world, and his eternal life in the next world, is but one life; all the diffe<g ref="char:EOLhyphen"/>rence is in the growth, in earth it is growing, in heaven it is full grown. O let us now to our power make Chriſt a gain to live; ſo, and no otherwiſe, he ſhall be our gain to die, and to live for ever with him after our death.</p>
+            <p>The nature of this text requiring an illuſtra<g ref="char:EOLhyphen"/>tion of the doctrine by example, Now God ſends us here an example which makes a comment upon the text. It is true St. <hi>Paul</hi> ſpeaks here for himſelf, <hi>Chriſt is a gain unto me both to live and to die.</hi> But he ſpake it for all to ſpeak after him that could. And when I look upon the life and death of our reverend, holy, and now glorified friend, I find that he might have been exactly true in ſaying <hi>Chriſt is a gain unto me both to live and to die.</hi>
+            </p>
+            <p>In his tender years he began to dedicate himſelf unto Chriſt. And though by the means which he was born to, and by the goodneſs
+<pb n="15" facs="tcp:58486:9"/>of his ex<gap reason="illegible" resp="#MURP" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ion, he might have applied his ſtudies to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> lucrative condition then that of the M<gap reason="illegible" resp="#MURP" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>y (by which not one in fifty thrives in <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld) yet Chriſts eſpectial ſervant he would <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that holy Office.</p>
+            <p>And <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uth is, God had ſeparated him from the womb for the Miniſtery, giving him the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oice<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>owments for ſo high a calling. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heriſhed in him by his Tutor, no <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> great and good man Archbiſhop <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>There is <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of all the graces requiſite for the Epiſcop<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and paſtoral Office in thoſe hierarchical Epiſtles to <hi>Tim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thy</hi> and <hi>Titus,</hi> but may be exemplified in this excellent Divine: <q>For he was blameleſs, the husband of one wife, vigilant, ſober, of good behaviour, given to hoſpitality, apt to teach, not given to wine, no ſtriker, not greedy of filthy lucre, not a brawler, not covetous, one that ruled well his own houſe, having his children in ſubjection with all gravity, not ſelf-willed, not ſoon angry; but patient, juſt, holy, holding faſt the faithful word as he had been taught, able by ſound doctrine both to ex<g ref="char:EOLhyphen"/>hort and to convince the gainſayers.</q> Compare
+<pb n="16" facs="tcp:58486:10"/>the rule with his practice, the pattern with his qualities, and let envy and detraction find an unconformity between them if they can</p>
+            <p>He was at his firſt entrance into Holy Orders a moſt practical uſeful preacher, which few young men attain unto. A famous man for the pulpit near fifty years agoe, and kept up that high genius to the very laſt.</p>
+            <p>His firſt ſtep was into the domeſtick ſervice of that riſing active Biſhop <hi>Laud,</hi> who took a ſingular affection to his great parts of nature grace and ſtudy, and kept him long for his houſhold Chaplain. But that excellent Judge and encourager of meriting perſons, King <hi>Charles</hi> the Firſt, being extremely pleaſed with his extraordinary pious and powerful way of rational preaching, after he had heard him twice or thrice at the Court, never left ſolliciting the Bi<g ref="char:EOLhyphen"/>ſhop to find ſome ſetled preferment for him, to enable him to attend upon his own perſon. And upon theſe eaſie terms came all his pre<g ref="char:EOLhyphen"/>ferments.</p>
+            <p>And here it is moſt obſervable how Chriſt was a gain unto him for proſperity. For in his whole life of above foureſcore years, he never
+<pb n="17" facs="tcp:58486:10"/>opened his mouth for preferment, never either directly or indirectly importuned any man for any thing, never had conteſt with any compe<g ref="char:EOLhyphen"/>titor for any of his dignities. Chriſt his great and good Maſter, whoſe glory he ſought as his only gain, brought him to his fair places without his ſeeking. For this partage of cares he had made with him, Lord I will take care of thy ſervice, do thou take care of my well being. And truly as he was a rare example of an eaſie advancement, ſo was he a rare ex<g ref="char:EOLhyphen"/>ample of caſting all his cares upon God, be<g ref="char:EOLhyphen"/>cauſe God cared for him.</p>
+            <p>Among the proſperities wrought for him by the fatherly care of God, I muſt put in the firſt rank his matching with a wife of excellent virtue and eminent extraction, daughter to that Honourable Perſon Sir <hi>Francis Windehank</hi> then flouriſhing and in high favour at the Court, and ſoon after ſworn Privy Counſellor and Principal Secretary of State. A match ſo wrought for him by his powerful friends, that it may be ſayd that God brought her by the hand to him, as he brought the firſt wife to the firſt man.</p>
+            <p>Wealth and favour thus flowing upon him,
+<pb n="18" facs="tcp:58486:11"/>his moderation made him an obſerver of Solo<g ref="char:EOLhyphen"/>mons precept,
+<note place="margin">Pro. 23.4.</note> 
+               <hi>Labour not to be rich.</hi> For being poſſeſt of the great living of St <hi>Olave,</hi> when the late King his gracious Maſter conferred upon him the Deanry of <hi>Canterbury</hi> (which was done in his abſence, and ten days before he knew it) he freely reſigned St. <hi>Olave</hi> into his Majeſties hands, though the King never intended to lay any obli<g ref="char:EOLhyphen"/>gation upon him to reſign his living. Which he did not do <hi>quia infirmi eſt animi non poſſe pati divitia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> becauſe he found his back too weak to bear wealth; for he hath ſhew'd ſuffici<g ref="char:EOLhyphen"/>ently that he could wield it, and employ it to the beſt uſes of charity, wiſdom and magnani<g ref="char:EOLhyphen"/>mity, with a ſerene and pious eaſineſs: as he could poſſeſs wealth he could alſo deſpiſe it, and be abſtinent in the midſt of plenty.</p>
+            <p>Much about that time he ſhewed that he could relinquiſh his own patrimony as well as that of the Church; for he reſigned his paternal eſtate of conſiderable value to his younger brother; and gave portions to ſeveral of his ſiſters, and ſettled them and others of his kindred very hand<g ref="char:EOLhyphen"/>ſomely in the world, though he was then a married man and a father, and in a time when the lowring face of the skie could make him
+<pb n="19" facs="tcp:58486:11"/>preſage the great imminent ſtorm. Yea when the ſtorm was moſt raging, and his own fortunes were at a lower ebbe, even then he took into his care his aged parents, haraſſed and ruined by the iniquity of the times, for their moſt emi<g ref="char:EOLhyphen"/>nent loyalty; and made them a very fai allow<g ref="char:EOLhyphen"/>ance, that they might live like themſelves. For which they uſed to bleſs him and call him their ſecond <hi>Joſeph.</hi>
+            </p>
+            <p>A great point of his proſperities (and that on the ſcore of Chriſt who ever was a gain unto him) was the choice made of him by his late Majeſty three ſeveral extraordinary times to at<g ref="char:EOLhyphen"/>tend him in his holy function; The firſt time in his progreſs to <hi>Scotland</hi> for his coronation. The ſecond time when he was in the hands of the Army at Hampton Court. The third time in the Iſle of Wight in the time of that ugly Treaty. Where the good King preparing himſelf for his Matyrdom gathered about him ſuch ſpi<g ref="char:EOLhyphen"/>ritual forces as he might be allowed to have, which might ſtrengthen him in that great tri<g ref="char:EOLhyphen"/>al.</p>
+            <p>In that honourable and perillous employment of framing a King in his enemies power to be a Martyr, our excellent friend was himſelf
+<pb n="20" facs="tcp:58486:12"/>a great Confeſſor, daring to own loyalty and obedience, before thoſe monſters, who made high treaſon the higheſt pitch of god<g ref="char:EOLhyphen"/>lineſs.</p>
+            <p>And now was the time for this Reverend good man to ſeek gain in Chriſt through ad<g ref="char:EOLhyphen"/>verſity. In the very beginning of the wars he had been ſequeſtred, plundered, forced to flie, rudely and barbarouſly carried away by a troop of Par<g ref="char:EOLhyphen"/>liament horſe, and impriſoned at <hi>London.</hi> But what! this muſt be put among the mercies; Since thereby he got that gain of conformity with the ſufferings of Chriſt, and had that glory to bear his croſs with a patient, erected, and contented mind.</p>
+            <p>Could I now trace him in his ſeveral flights and ſhifts from place to place, with his wife and little children, during that long ſtorm, you might ſee a web of croſſes and mercies enterlaced, and that continual and never fail<g ref="char:EOLhyphen"/>ing mercy, the Chriſtian conſtancy whereby God upheld that religious couple, making Chriſt their gain and their joy in their loſ<g ref="char:EOLhyphen"/>ſes.</p>
+            <p>But the ſtorm being once over, Chriſt muſt be again their gain in proſperity. And here
+<pb n="21" facs="tcp:58486:12"/>was eminent this reverend mans virtue: For whereas at the Kings return he might have had a rochet, he did ſtudiouſly decline it, <hi>con<g ref="char:EOLhyphen"/>trahens vento nimium ſecundo turgida vela,</hi> wiſely and modeſty chuſing rather to ſet out too little than too much ſail. And rather than get<g ref="char:EOLhyphen"/>ting more he reſigned a living of good va<g ref="char:EOLhyphen"/>lue, which he had recovered by the general reformation of the Church, deſiring to eaſe his aged ſhoulders of the burthen of cure of ſouls; and cauſed it to be beſtowed upon a perſon altogether unacquainted with him, but recommended very juſtly under the character of a pious man and a ſufferer for righteouſneſs; preferring him before one neareſt to himſelf in blood.</p>
+            <p>His behaviour in his ſeveral ſtations, at <hi>Canterbury</hi> and at <hi>Pauls,</hi> muſt not be for<g ref="char:EOLhyphen"/>gotten. May it be remembred to his honour that he was affable and courteous to all, kind and obliging to all deſerving perſons, highly bountiful and compaſſionate to the poor, hoſ<g ref="char:EOLhyphen"/>pitable to great and ſmall, eſpecially to the Clergy of the Dioceſe, and to his brethren. With them he deſired to live in a perfect fraternity, and though he knew how to pre<g ref="char:EOLhyphen"/>ſerve
+<pb n="22" facs="tcp:58486:13"/>his authority as well as any man, it was without any ſupercilious diſtance. If there happened any difference, none was more peaceable or more reconcilable then he. He did not only forgive injuries, but many times he did perfectly forget them. Which art of oblivion was a ſtrange faculty in him, whoſe memory till within three days of his death was incomparable, I had almoſt ſaid prodigious; yet he could hardly remember many offenſive paſſages againſt him, till he was reminded of them.</p>
+            <p>What more! He did not only forget the offences done to him, but alſo ſome good works done by him; or ſo litle minded them that he ſpake little of them. Of which none can be a better witneſs than my ſelf. For when the moſt Reverend Archbiſhop <hi>Juxon</hi> made ſome doubt whether he ſhould confirm me in the poſſeſſion of <hi>Adſham</hi> by a new Col<g ref="char:EOLhyphen"/>lation, this excellent Dean, this peerleſs friend of mine, ſhewed him that he could not in honour and gratefulneſs do otherwiſe;
+<note place="margin">In Clamo<g ref="char:EOLhyphen"/>re Regii ſanguinis ad Coe<g ref="char:EOLhyphen"/>lum.</note> putting in his hands the true and honourable account which I had given to the world of his rarely virtuous behaviour in aſſiſting our late
+<pb n="23" facs="tcp:58486:13"/>holy King in his martyrdom, and in his trials for his ſake after his death. This favour of the firſt magnitude, of which I muſt ever have a grateful remembrance, was like to have been buried in perpetual obli<g ref="char:EOLhyphen"/>vion; for the doer of it did not acquaint me with it but eleven years after, a few moneths before his death upon an occaſion given him to remind it. This was doing good merely for God and goodneſs ſake, without expecting thankes from men; which is the livelieſt character of a really honeſt ſoul.</p>
+            <p>But above all let it be recorded of him that there was never a more publick-ſpirited Governour in this or in any other Church ſoever. He was moſt zealouſly promoting and upholding the publick worſhip of God in the beauty of holineſs, and decent ſplendor in the houſe of God, advancing the good of the place whereſoever he preſided, what ever toil or cenſure or money it coſt him. Of which he hath given magnificent memorials to our Church and Library. It is memorable that in thankfulneſs for a great deliverance from an imminent danger, he vowed and dedi<g ref="char:EOLhyphen"/>cated
+<pb n="24" facs="tcp:58486:14"/>to our Holy Table that coſtly Folio Bible with covers of beaten ſilver double gilt. His behaviour at <hi>Pauls</hi> hath given many ſignal teſtimonies how much he preferred the honour of Gods houſe, and the benefit of the Society, before his private emolument. The fair houſe which he lately built there for his ſucceſſours having little hope to enjoy it him<g ref="char:EOLhyphen"/>ſelf, and yet ſpent the better part of a thou<g ref="char:EOLhyphen"/>ſand pounds upon it, is a great proof of that truth, and a laſting monument of his magna<g ref="char:EOLhyphen"/>nimous and publick ſpirit.</p>
+            <p>In all the relations of a Son, a Husband, a Father, a Kinſman, or a Friend, he ever acquitted himſelf with ſingular wiſedom, con<g ref="char:EOLhyphen"/>ſtant piety, and almoſt unparalleled genero<g ref="char:EOLhyphen"/>ſity. Take him any way you ſhall find in him a right <hi>tetragoniſmus,</hi> a firm cube equal on all ſides.</p>
+            <p>I cannot but once more touch his ſuper<g ref="char:EOLhyphen"/>lative bounty to the poor, who therefore were his conſtant attendants, appropriating to him Chriſts ſaying to his Diſciples, <hi>The poor you ſhall have alwayes with you.</hi> But his ſecret alms were far greater then the open. Thereby indeed Chriſt was a gain unto him,
+<pb n="25" facs="tcp:58486:14"/>and the promiſe for this life made good, <hi>The liberal ſoul ſhall be made fat;</hi> and the greater promiſe of the heavenly kingdom to them that have fed and clothed Chriſt in his members is now fulfilled to him.</p>
+            <p>But may I not ſay that as Chriſt was a gain unto him, he was alſo a gain unto Chriſt? Why? Hath not Chriſt ſaid, <hi>In as much as you have done it to one of the leaſt of my brethren you have done it unto me?</hi>
+               <note place="margin">Mat. 25</note> To Chriſt then he hath brought as much gain that way as any of his time and means. His memory be ever bleſſed for it, for ſo is his glorious ſoul.</p>
+            <p>Having then ſeen how Chriſt was to him a gain to live, Let us ſee now how Chriſt was a gain to him to die, which is the end that crowneth the work. His good life was a continual preparation to a good death. But he made a particular preparation for it, without any deſign. For when he preacht in his laſt courſe, which was the Eleventh Sunday after Trinity, being in perfect health, he took for his text <hi>Into thy hands I commit my ſpirit, Thou hast redeemed me O Lord God of truth:</hi> His excellent Sermon he delivered with full
+<pb n="26" facs="tcp:58486:15"/>vigour, continued in that vigour four daies longer: But on the Friday after that Criti<g ref="char:EOLhyphen"/>cal or rather Prophetical Sermon, he fell ſick of the ſickneſs of which he dyed. And when his ſickneſs began he could ſay that he had preacht his funeral Sermon. How well did he teach us then to commit our ſpirits unto God while we live, by a full reſignation, ſubmiſſion, and obedience unto his holy will; that in our death we may with confidence and joy commit and give up our ſpirits into the hands of our Redeemer, that God of truth, who will faithfully preſerve, perfect and glorifie the ſouls that have committed themſelves to his keeping!</p>
+            <p>With theſe thoughts God armed his ſervant againſt his laſt combat at hand. The ſharp aſſaults of his diſeaſe, the ſtone, after thirty years of good health, were not terrible enough to ſhake his conſtancy, or give him any dreadful apprehenſions, except of living. No man ever feared death more then he de<g ref="char:EOLhyphen"/>ſired it; Yet with all ſubmiſſion and reſignation to Gods heavenly will. No word ſo frequent in his mouth as <hi>Cupio diſſolvi &amp; eſſe cum Chriſto,</hi> I deſire to be diſſolved and to be with Chriſt;
+<pb n="27" facs="tcp:58486:15"/>To which he would pray the company to ſay Amen.</p>
+            <p>The reading of a Penitential <hi>Pſalm</hi> to him would melt him into tears of contrition, and he would repeat it after the reader. And when he ſaid nothing, he practiſed St <hi>Pauls</hi> precept, <hi>Pray continually.</hi> Wherefore he deſired often that the prayers of the Liturgy (when they were ſaid near him) ſhould be ſhortened, aſſuring his friends that he had ſaid them all already to himſelf. But he did not limit his devotions to the Liturgy, but entertained himſelf with God with high and ſavoury expreſſions of his own, with ſuch a ſtrength and ſerenity of mind that in his greateſt weakneſs, and in his ſoreſt pains, ſcarce did he ſpeak one ill placed word to the laſt minute. When his throat and tongue were moſt grievouſly parched, being asked how he felt himſelf, he anſwered that <hi>his ſoul was athirſt for God,</hi> for he had <hi>Davids</hi> longing to refreſh and ſatiate his weary ſoul with the fountain of Gods life, and the fatneſs of his houſe.</p>
+            <p>The day before he ſurrendred his bleſſed ſoul into the hands of God, he received the Holy Sacrament very devoutly, conquering his
+<pb n="28" facs="tcp:58486:16"/>averſion againſt any thing offered to him to ſwallow. And although he had not been able to take down any arid nutriment, ſcarce any liquid, in forty eight hours, yet he forced himſelf to receive the <hi>Viaticum.</hi>
+            </p>
+            <p>The innocent gayety of his humour, which made his company ſo ſingularly agreeable to all ſorts of men, did not utterly forſake him to the laſt. He would ſmile at his dear relations when he ſaw them flatter themſelves with hopes of his recovery two or three hours before his death, telling them pleaſantly that what he took to pleaſe them would not do the work. Yet was he extreme tractable to any thing pre<g ref="char:EOLhyphen"/>ſcribed, however contrary to his diſcerning judgement of his own condition. And when he was deſired for Gods ſake and for his and his friends conſcience to ſubmit to ſome painful applications, but an hour before he expired, he put forth his whole ſtrength of body (which was as well built as moſt in the world) and raiſed himſelf twice in his bed to their admiration, for it ſeemed that it was more the ſtrength of conſcience than that of his limbs that made him thus active.</p>
+            <p>He would be ſure to thank any one moſt affecti<g ref="char:EOLhyphen"/>nately that prayed by him, directing his friends to
+<pb n="29" facs="tcp:58486:16"/>the uſe of the Liturgy, or to call upon God in the words of the Holy Spirit, either places of the new Teſtament, or of the Pſalms. Moſt of his diſ<g ref="char:EOLhyphen"/>courſe was ghoſtly, fatherly, heavenly counſel. And about an hour before his laſt breath he gave his bleſſing to all his by the impoſition of his moſt re<g ref="char:EOLhyphen"/>verend hand. And gave up the ghoſt with the great<g ref="char:EOLhyphen"/>eſt Chriſtian magnanimity, and yet with the deep<g ref="char:EOLhyphen"/>eſt ſence imaginable of godly ſorrow working re<g ref="char:EOLhyphen"/>pentance unto ſalvation, not to be repented of.</p>
+            <p>So ended the life of that excellent man: That great owner of thoſe two heroique vertues <hi>Humility and a Publick ſpirit;</hi> And of whom it may be ſaid, That <hi>never was Clergyman freer from Pride and Covetouſneſs.</hi>
+            </p>
+            <p>After ſuch a life and ſuch a death, he deſerved to have two banners carried before and after his herſe; The one inſcribed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>To the honour of him that lived well;</hi> The othe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>To the honour of him that dyed well.</hi> And the proper elogy on his Tomb is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Chriſt is a gain unto me both to live and to die.</hi>
+            </p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
